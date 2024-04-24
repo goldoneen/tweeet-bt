@@ -8,5 +8,16 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/app-repo-name.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/app-repo-name/issues",
+    "email": "your-project-email@host.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "react": "^18.2.0"
+  }
 }
